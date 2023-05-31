@@ -1,0 +1,9 @@
+# Local .terraform directories
+**/.terraform/*
+
+## Modules Directory for testing
+## **/modules/tfAzModules/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
